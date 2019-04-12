@@ -1,0 +1,9 @@
+h1 { color: maroon; text-align: center; }
+div p { font-style: italic; font-weight: bold; }
+div + p { text-decoration: underline; color: green; }
+ol { border-top-style: double;
+     border-right-style: dotted;
+     border-bottom-style: double;
+     border-left-style: dotted;
+     border-color: blue; }
+span { color: red; font-weight: bold; }
